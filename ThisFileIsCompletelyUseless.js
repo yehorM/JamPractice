@@ -1,0 +1,2 @@
+<Begin BestJavscriptEver>
+<Yay>
